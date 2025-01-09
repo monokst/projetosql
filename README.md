@@ -5,7 +5,7 @@ Select na tabela Categoria
 
 ![IMG-20250109-WA0010](https://github.com/user-attachments/assets/f9895d52-53ed-42c4-b2d5-588b7a1e5df2)
 
-View para a visualização de palavras específicas, no caso, era "fertilizante"
+View para a visualização de palavras específicas, no caso, a palavra era "fertilizante"
 
 ![IMG-20250109-WA0011](https://github.com/user-attachments/assets/d80c3385-2371-48f7-9f31-291dc3251862)
 
