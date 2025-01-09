@@ -9,11 +9,11 @@ View para a visualização de palavras específicas, no caso, a palavra era "fer
 
 ![IMG-20250109-WA0011](https://github.com/user-attachments/assets/d80c3385-2371-48f7-9f31-291dc3251862)
 
-Inner Join para o nome dos fornecedores e o nome dos produtos ativos que possuem na plataforma
-
-![IMG-20250109-WA0008](https://github.com/user-attachments/assets/8ee577b0-04be-4716-b987-cf3756a78132)
-
 Inner Join para a junção das tabelas produto, fornecedor, quantidade e preço
 
 ![IMG-20250109-WA0009](https://github.com/user-attachments/assets/a676573c-79ad-4749-8311-8497e372534b)
+
+Inner Join para a junção das tabelas nome_fornecedor e nome_produto. Será visualizado o nome dos fornecedores e o nome dos produtos ativos que possuem
+
+![IMG-20250109-WA0008](https://github.com/user-attachments/assets/8ee577b0-04be-4716-b987-cf3756a78132)
 
