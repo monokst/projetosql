@@ -9,7 +9,7 @@ View para a visualização de palavras específicas, no caso, a palavra era "fer
 
 ![IMG-20250109-WA0011](https://github.com/user-attachments/assets/d80c3385-2371-48f7-9f31-291dc3251862)
 
-Inner Join para ver o nome dos fornecedores e nomes de produtos ativos que possuem na plataforma
+Inner Join para o nome dos fornecedores e o nome dos produtos ativos que possuem na plataforma
 
 ![IMG-20250109-WA0008](https://github.com/user-attachments/assets/8ee577b0-04be-4716-b987-cf3756a78132)
 
